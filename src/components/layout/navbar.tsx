@@ -3,7 +3,6 @@ import {
   LayoutDashboard,
   FolderClosed,
   Settings,
-  User,
   Shield,
   Grid,
   Mail,
